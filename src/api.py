@@ -77,10 +77,12 @@ def _get_conn() -> sqlite3.Connection:
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Pre-warm: open a connection and verify the DB is loadable.
-    _get_conn()
+    try:
+        _get_conn()
+    except HTTPException:
+        import logging
+        logging.warning("DB not found at startup — endpoints will return 503 until DB is built.")
     yield
-    # Per-thread connections are closed when threads die.
 
 
 # -------------------- request / response models --------------------
