@@ -1,0 +1,34 @@
+conceptType,conceptUri,iscoGroup,preferredLabel,altLabels,hiddenLabels,status,modifiedDate,regulatedProfessionNote,scopeNote,definition,inScheme,description,code
+Occupation,http://data.europa.eu/esco/occupation/mock-nurse,2221,nurse,"registered nurse
+nursing professional
+RN",,released,2024-01-01,,,,,Provides direct nursing care to patients in hospitals and clinics.,2221.1
+Occupation,http://data.europa.eu/esco/occupation/mock-doctor,2211,general practitioner,"GP
+family doctor
+physician",,released,2024-01-01,,,,,Diagnoses and treats general health conditions in primary care settings.,2211.1
+Occupation,http://data.europa.eu/esco/occupation/mock-teacher-primary,2341,primary school teacher,"elementary teacher
+primary teacher",,released,2024-01-01,,,,,Teaches children at primary/elementary level.,2341.1
+Occupation,http://data.europa.eu/esco/occupation/mock-mechanic-car,7231,motor vehicle mechanic,"car mechanic
+auto mechanic
+automotive technician
+auto monteur",,released,2024-01-01,,,,,Repairs and services motor vehicles.,7231.1
+Occupation,http://data.europa.eu/esco/occupation/mock-mechanic-moto,7233,motorcycle mechanic,"motorbike mechanic
+moped technician",,released,2024-01-01,,,,,Repairs motorbikes and small two-wheel engines.,7233.1
+Occupation,http://data.europa.eu/esco/occupation/mock-tailor,7531,tailor,"dressmaker
+seamstress
+clothes maker",,released,2024-01-01,,,,,Designs alters and constructs clothing.,7531.1
+Occupation,http://data.europa.eu/esco/occupation/mock-dev,2512,software developer,"programmer
+software engineer
+backend developer",,released,2024-01-01,,,,,Designs and develops software applications.,2512.1
+Occupation,http://data.europa.eu/esco/occupation/mock-cook,3434,cook,"chef de partie
+line cook",,released,2024-01-01,,,,,Prepares meals in restaurants and food establishments.,3434.1
+Occupation,http://data.europa.eu/esco/occupation/mock-construction,7112,bricklayer,"mason
+brickmason",,released,2024-01-01,,,,,Builds walls and structures using bricks and blocks.,7112.1
+Occupation,http://data.europa.eu/esco/occupation/mock-cleaner,9112,cleaner,"office cleaner
+domestic cleaner
+schoonmaker",,released,2024-01-01,,,,,Cleans offices and domestic spaces.,9112.1
+Occupation,http://data.europa.eu/esco/occupation/mock-driver,8322,taxi driver,"car driver
+chauffeur
+ride-hail driver",,released,2024-01-01,,,,,Transports passengers by car for hire.,8322.1
+Occupation,http://data.europa.eu/esco/occupation/mock-warehouse,9333,warehouse worker,"warehouse operative
+order picker
+storeroom worker",,released,2024-01-01,,,,,Receives stores and dispatches goods in a warehouse.,9333.1

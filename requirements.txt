@@ -1,0 +1,22 @@
+# --- CORE (required for ingest + lookup + skills_gap) ---
+# Everything in src/lookup.py, src/skills_gap.py, src/ingest.py runs on the
+# Python standard library. Pandas/numpy are listed only because the test suite
+# and ingest helpers assume a typical data-science environment.
+pandas>=2.0
+numpy>=1.24
+
+# --- REST API (required for src/api.py) ---
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.0
+
+# --- OPTIONAL: 10-50x faster fuzzy matching ---
+# Gracefully falls back to stdlib difflib if not installed.
+# rapidfuzz>=3.0
+
+# --- OPTIONAL: embedding-based semantic similarity ---
+# Significantly improves recall on inputs like
+# "I fixed motorcycles for my uncle's shop" → mechanic
+# and "give medication" → "administer medication".
+# Adds ~500MB of model weights at first run.
+# sentence-transformers>=2.2

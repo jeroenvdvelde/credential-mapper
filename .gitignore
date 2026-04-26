@@ -1,0 +1,21 @@
+# Generated DB
+db/*.sqlite
+db/*.sqlite-journal
+
+# Raw ESCO data is large and licensed separately - don't commit
+data/raw/*/
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store

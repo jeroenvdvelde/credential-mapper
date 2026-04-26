@@ -1,0 +1,22 @@
+conceptType,conceptUri,iscoGroup,preferredLabel,altLabels,hiddenLabels,status,modifiedDate,regulatedProfessionNote,scopeNote,definition,inScheme,description,code
+Occupation,http://data.europa.eu/esco/occupation/mock-nurse,2221,verpleegkundige,"verpleger
+gediplomeerd verpleegkundige",,released,2024-01-01,,,,,Verleent directe zorg aan patiënten.,2221.1
+Occupation,http://data.europa.eu/esco/occupation/mock-doctor,2211,huisarts,"arts
+algemeen arts",,released,2024-01-01,,,,,Diagnosticeert en behandelt patiënten in eerstelijnszorg.,2211.1
+Occupation,http://data.europa.eu/esco/occupation/mock-teacher-primary,2341,leerkracht basisonderwijs,"basisschoolleraar
+onderwijzer",,released,2024-01-01,,,,,Geeft les op de basisschool.,2341.1
+Occupation,http://data.europa.eu/esco/occupation/mock-mechanic-car,7231,automonteur,"auto monteur
+voertuigtechnicus",,released,2024-01-01,,,,,Repareert en onderhoudt motorvoertuigen.,7231.1
+Occupation,http://data.europa.eu/esco/occupation/mock-mechanic-moto,7233,motormonteur,"motorfiets monteur",,released,2024-01-01,,,,,Repareert motorfietsen.,7233.1
+Occupation,http://data.europa.eu/esco/occupation/mock-tailor,7531,kleermaker,"naaister
+coupeur",,released,2024-01-01,,,,,Maakt en past kleding op maat.,7531.1
+Occupation,http://data.europa.eu/esco/occupation/mock-dev,2512,softwareontwikkelaar,"programmeur
+software engineer",,released,2024-01-01,,,,,Ontwikkelt softwaretoepassingen.,2512.1
+Occupation,http://data.europa.eu/esco/occupation/mock-cook,3434,kok,"chef-kok",,released,2024-01-01,,,,,Bereidt maaltijden in restaurants.,3434.1
+Occupation,http://data.europa.eu/esco/occupation/mock-construction,7112,metselaar,"bouwvakker metselen",,released,2024-01-01,,,,,Bouwt muren met stenen en blokken.,7112.1
+Occupation,http://data.europa.eu/esco/occupation/mock-cleaner,9112,schoonmaker,"interieurverzorger
+schoonmaakster",,released,2024-01-01,,,,,Maakt kantoren en woningen schoon.,9112.1
+Occupation,http://data.europa.eu/esco/occupation/mock-driver,8322,taxichauffeur,"chauffeur
+personenvervoerder",,released,2024-01-01,,,,,Vervoert passagiers per auto tegen betaling.,8322.1
+Occupation,http://data.europa.eu/esco/occupation/mock-warehouse,9333,magazijnmedewerker,"orderpicker
+magazijnier",,released,2024-01-01,,,,,Ontvangt opslaat en verzendt goederen.,9333.1

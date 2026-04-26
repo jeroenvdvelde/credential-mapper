@@ -1,0 +1,13 @@
+conceptType,conceptUri,code,preferredLabel,altLabels,status,inScheme,description
+ISCOGroup,http://data.europa.eu/esco/isco/C2211,2211,Generalist medical practitioners,,released,,General practitioners and family doctors.
+ISCOGroup,http://data.europa.eu/esco/isco/C2221,2221,Nursing professionals,,released,,Registered nursing professionals.
+ISCOGroup,http://data.europa.eu/esco/isco/C2341,2341,Primary school teachers,,released,,Teachers of primary education.
+ISCOGroup,http://data.europa.eu/esco/isco/C2512,2512,Software developers,,released,,Designers and developers of software.
+ISCOGroup,http://data.europa.eu/esco/isco/C3434,3434,Chefs,,released,,Cooks and chefs in food service.
+ISCOGroup,http://data.europa.eu/esco/isco/C7112,7112,Bricklayers and related workers,,released,,Skilled construction trades.
+ISCOGroup,http://data.europa.eu/esco/isco/C7231,7231,Motor vehicle mechanics and repairers,,released,,Repair of motor vehicles.
+ISCOGroup,http://data.europa.eu/esco/isco/C7233,7233,Agricultural and industrial machinery mechanics and repairers,,released,,Repair of machinery including motorcycles.
+ISCOGroup,http://data.europa.eu/esco/isco/C7531,7531,Tailors dressmakers furriers and hatters,,released,,Garment construction trades.
+ISCOGroup,http://data.europa.eu/esco/isco/C8322,8322,Car taxi and van drivers,,released,,Drivers of light passenger vehicles for hire.
+ISCOGroup,http://data.europa.eu/esco/isco/C9112,9112,Cleaners and helpers in offices hotels and other establishments,,released,,Cleaning occupations.
+ISCOGroup,http://data.europa.eu/esco/isco/C9333,9333,Freight handlers,,released,,Manual handling of goods in warehouses and transport.

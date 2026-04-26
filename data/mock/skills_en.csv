@@ -1,0 +1,26 @@
+conceptType,conceptUri,skillType,reuseLevel,preferredLabel,altLabels,hiddenLabels,status,modifiedDate,scopeNote,definition,inScheme,description
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-medication,knowledge,occupation-specific,administer medication,"medication administration",,released,2024-01-01,,,,Knowledge and ability to administer prescribed medications.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-patient-assess,skill,occupation-specific,assess patient condition,"patient assessment
+clinical assessment",,released,2024-01-01,,,,Evaluate the medical condition of patients.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-engine-repair,skill,occupation-specific,repair engines,"engine repair",,released,2024-01-01,,,,Diagnose and fix internal-combustion engines.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-diagnostics,skill,cross-sector,perform vehicle diagnostics,"OBD diagnostics
+fault diagnosis",,released,2024-01-01,,,,Use diagnostic tools to find vehicle faults.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-sewing,skill,occupation-specific,sewing,"machine sewing
+hand sewing",,released,2024-01-01,,,,Stitching fabric with machine or hand.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-pattern,skill,occupation-specific,pattern making,"create patterns",,released,2024-01-01,,,,Create paper patterns for garments.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-python,knowledge,cross-sector,Python (programming),"python programming",,released,2024-01-01,,,,Knowledge of the Python programming language.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-git,skill,cross-sector,version control with git,"git
+source control",,released,2024-01-01,,,,Use git for source code version control.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-knife,skill,occupation-specific,knife skills,"chef knife skills
+cutting techniques",,released,2024-01-01,,,,Use kitchen knives safely and efficiently.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-recipe,skill,occupation-specific,follow recipes,"recipe execution",,released,2024-01-01,,,,Prepare dishes following written recipes.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-bricklay,skill,occupation-specific,laying bricks,"bricklaying
+masonry",,released,2024-01-01,,,,Lay bricks to build walls.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-pedagogy,knowledge,occupation-specific,pedagogy,"teaching methods
+didactics",,released,2024-01-01,,,,Knowledge of teaching methods.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-curriculum,skill,occupation-specific,curriculum design,"lesson planning",,released,2024-01-01,,,,Design lesson plans aligned with curriculum.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-driving-licence,knowledge,cross-sector,driving licence B,"car licence",,released,2024-01-01,,,,Hold a category B driving licence.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-customer-service,skill,transversal,customer service,"client service",,released,2024-01-01,,,,Communicate effectively with customers.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-forklift,skill,occupation-specific,operate forklift,"forklift operation
+heftruckchauffeur",,released,2024-01-01,,,,Operate a forklift safely.
+KnowledgeSkillCompetence,http://data.europa.eu/esco/skill/mock-stock,skill,occupation-specific,stock management,"inventory management",,released,2024-01-01,,,,Track and manage inventory in a warehouse.

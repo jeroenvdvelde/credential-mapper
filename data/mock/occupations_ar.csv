@@ -1,0 +1,19 @@
+conceptType,conceptUri,iscoGroup,preferredLabel,altLabels,hiddenLabels,status,modifiedDate,regulatedProfessionNote,scopeNote,definition,inScheme,description,code
+Occupation,http://data.europa.eu/esco/occupation/mock-nurse,2221,ممرضة,"ممرض
+ممرضة قانونية",,released,2024-01-01,,,,,توفر الرعاية التمريضية المباشرة للمرضى.,2221.1
+Occupation,http://data.europa.eu/esco/occupation/mock-doctor,2211,طبيب عام,"طبيب أسرة
+طبيب",,released,2024-01-01,,,,,يشخص ويعالج الحالات الصحية العامة.,2211.1
+Occupation,http://data.europa.eu/esco/occupation/mock-teacher-primary,2341,معلم ابتدائي,"معلمة ابتدائي
+معلم مدرسة",,released,2024-01-01,,,,,يعلم الأطفال في المرحلة الابتدائية.,2341.1
+Occupation,http://data.europa.eu/esco/occupation/mock-mechanic-car,7231,ميكانيكي سيارات,"فني سيارات",,released,2024-01-01,,,,,يصلح ويصون السيارات.,7231.1
+Occupation,http://data.europa.eu/esco/occupation/mock-mechanic-moto,7233,ميكانيكي دراجات نارية,"فني دراجات نارية",,released,2024-01-01,,,,,يصلح الدراجات النارية.,7233.1
+Occupation,http://data.europa.eu/esco/occupation/mock-tailor,7531,خياط,"خياطة
+ترزي",,released,2024-01-01,,,,,يصمم ويصنع الملابس.,7531.1
+Occupation,http://data.europa.eu/esco/occupation/mock-dev,2512,مطور برمجيات,"مبرمج
+مهندس برمجيات",,released,2024-01-01,,,,,يصمم ويطور تطبيقات البرمجيات.,2512.1
+Occupation,http://data.europa.eu/esco/occupation/mock-cook,3434,طاهي,"طباخ",,released,2024-01-01,,,,,يحضر الوجبات في المطاعم.,3434.1
+Occupation,http://data.europa.eu/esco/occupation/mock-construction,7112,بنّاء,"بناء بالطوب",,released,2024-01-01,,,,,يبني الجدران بالطوب.,7112.1
+Occupation,http://data.europa.eu/esco/occupation/mock-cleaner,9112,عامل نظافة,"منظف",,released,2024-01-01,,,,,ينظف المكاتب والمنازل.,9112.1
+Occupation,http://data.europa.eu/esco/occupation/mock-driver,8322,سائق سيارة أجرة,"سائق
+سائق تاكسي",,released,2024-01-01,,,,,ينقل الركاب بالسيارة مقابل أجر.,8322.1
+Occupation,http://data.europa.eu/esco/occupation/mock-warehouse,9333,عامل مستودع,"موظف مخزن",,released,2024-01-01,,,,,يستلم ويخزن البضائع في المستودع.,9333.1
