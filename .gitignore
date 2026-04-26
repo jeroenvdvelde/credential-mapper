@@ -2,9 +2,8 @@
 db/*.sqlite
 db/*.sqlite-journal
 
-# Raw ESCO data is large and licensed separately - don't commit
-data/raw/*/
-!data/raw/.gitkeep
+# Raw ESCO data — committed so Railway can build the DB on deploy
+# (all individual files are under 50 MB)
 
 # Python
 __pycache__/
